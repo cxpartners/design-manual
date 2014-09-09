@@ -1,3 +1,4 @@
 # Site settings
 name: cx Design Manual
 description: 
+baseurl: "/designmanual"
