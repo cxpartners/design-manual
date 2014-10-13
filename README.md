@@ -8,6 +8,7 @@ If you wish to make an update to the assets, content, or design of this project,
 
 ## Future versions
 
+* ‘How to write cxpartners’, cx vs. CX / cxpartners vs. CX Partners, etc.
 * Move all .zip files to a content delivery network
 * An introduction page / table of contents
 * Examples on how to use colour
