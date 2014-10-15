@@ -6,7 +6,7 @@ This project was ideated, designed, and developed by [Chris Berridge](http://www
 
 If you wish to make an update to the assets, content, or design of this project, please contact a member of the design department.
 
-## Future versions
+## To-do list
 
 * ‘How to write cxpartners’, cx vs. CX / cxpartners vs. CX Partners, etc.
 * New logo on background style. From Giles: ‘radial blur no offset, 10 pixel radius, 40-70% opacity depending on the background’
